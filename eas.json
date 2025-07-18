@@ -16,14 +16,7 @@
       }
     }
   },
-  "submit": {
-    "production": {
-      "android": {
-        "serviceAccountKeyPath": "./service-account.json"
-      },
-      "ios": {
-        "appleId": "your-apple-id@example.com"
-      }
-    }
+  "cli": {
+    "version": ">= 3.0.0"
   }
 }
